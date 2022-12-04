@@ -18,8 +18,6 @@ export default {
     }
   },
   async editCard(cardObj) {
-    // console.log('editCard() called with ', cardObj)
-    // return Promise.resolve(cardObj)
     
     const {_id, content, category} = cardObj
     try {

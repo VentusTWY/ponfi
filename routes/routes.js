@@ -32,7 +32,6 @@ router.post('/cards', async (req, res, next) => {
 })
 
 router.put('/cards/:id', async (req, res, next) => {
-  // Code here
   const { content, category } = req.body
   const { id } = req.params
 
