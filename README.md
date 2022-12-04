@@ -1,5 +1,6 @@
 # ponfi 
-backend project done using Express and MongoDB with GDSC imperial
+Backend project done using Express and MongoDB with GDSC Imperial 
+
 Handle all your tasks with Ponfi - your new refurbished Task Management System.
 
 ## Setup
